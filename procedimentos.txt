@@ -1,0 +1,7 @@
+1° - Configurei o git.
+2° - Criei uma pasta e acessei ela.
+3° - Coloquei a branch como master.
+4° - Criei um arquivo e dei um git add . > Seguido do git status > git commit > git push.
+*Deu pau no push, havia esquecido de ativar o token. Após ativar o token bastou colocar ele após
+push >  login.
+
